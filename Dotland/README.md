@@ -1,4 +1,4 @@
-# 🌎 DELLO, DWORLD!
+# 🌎 HELLO, WORLD!
 ### 🎵 Welcome to Da Dotland [Video Greetings!](https://youtu.be/vUxGBPxB9oE?si=6CpYvELCYHnpvYru) 
 
 **A little dot. A whole world of music.**

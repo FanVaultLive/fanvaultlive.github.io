@@ -26,7 +26,7 @@ Dotland is our creative playground for exploring how cards, characters, stories,
 
 We are developing reusable Markdown templates for creating, documenting, and publishing FanVault cards and drops.
 
-- [Game Card Template](Game-Card-Template.md) — A starting point for creating cards.
+- [Drop Planning Template](Drop-Planning-Template.md) — A starting point for creating cards.
 - **Showcase Template** — Coming soon.
 - **Drop Planning Template** — Coming soon.
 

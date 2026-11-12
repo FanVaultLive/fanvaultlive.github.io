@@ -74,7 +74,9 @@ This repository is an early publishing experiment toward that vision, not a clai
 
 Participate, create a deck and add some cards and then join your drop and then drop it and see how the whole process works yourself by just signing up (it's free).  With FanVault you can be  both a fan and a creator.  Then get yourself a github installation like this and start wrriting and upload the image and sound files you want to use.  Then when ready you can use the templates provded here to compose and create your drop.  
 
-**The goal is to provide many ways to mix the same data and produce a new view.**
+**The goal is to provide many ways to mix the same data and produce a new view
+
+and that is just the first dot.
 
 ## 🔗 Visit FanVault
 

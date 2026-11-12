@@ -1,14 +1,11 @@
 # FanVault.Live — The Open Web Publishing Library
-
+k-pop n
 ### Cards. Stories. Collections. Creative Worlds.
 
 Welcome to the public publishing library for [FanVault.Live](https://fanvault.live).
 
-FanVault is exploring a simple idea: **what if collecting digital cards was just the beginning?**
-
-A card can carry a story, a song, an image, a memory, or a connection to its creator. A collection can become something worth keeping, exploring, sharing, and building upon.
-
-This GitHub library is where we experiment with taking those ideas onto the open web.
+FanVault is exploring a simple idea: **what does it mean to collect fan cards today?*
+A card can carry a story, a song, an image, a memory, or a connection to its creator. A collection can become something worth keeping, exploring, sharing, and building upon.  This GitHub library is where we experiment with taking those ideas onto the open web.  How could an artist today use simple and mostly free sofware tools like wordpress and gitbub to build bridge to fan collection.  Today approach to super fan is purely transational and like all bloated industries capture the low hanging fruit <the rich> while leaving the rest unsatisfied, if not, down right disguntled.   The opportunity to merge k-pop with pokemon as envisioned for the millions of aspiring indie musicians built in metaphor as found in Dotland.
 
 ## 🌎 Explore the Library
 

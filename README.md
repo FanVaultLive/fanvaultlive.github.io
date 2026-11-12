@@ -1,4 +1,4 @@
-# FanVault.Live — The Open Web Publishing Library
+# FanVault.Live — an Open Web Publishing Library
 k-pop n
 ### Cards. Stories. Collections. Creative Worlds.
 

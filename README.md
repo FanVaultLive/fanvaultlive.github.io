@@ -59,9 +59,9 @@ You don't need to be a developer to browse this library.
 And that's part of the experiment.
 
 
-## ✨ From Smart Decks to the Open Web
+## ✨ Creative Space on the Open Web
 
-Our longer-term vision for FanVault includes Smart Decks — collections that can organize creative content and help make it available beyond the original platform.
+Our longer-term vision for FanVault collections that can organize creative content and help make it available beyond the original platform.
 
 Imagine an artist creating a collection of cards, then publishing that collection as a readable document, an illustrated showcase, or a story on their own website.
 
@@ -70,6 +70,12 @@ The goal is not to lock creative work inside one application.
 **The goal is to give creators and collectors more ways to keep, share, and experience what they value.**
 
 This repository is an early publishing experiment toward that vision, not a claim that automated Smart Deck publishing is already available.
+
+## 😎 Come Join us!
+
+Participate, create a deck and add some cards and then join your drop and then drop it and see how the whole process works yourself by just signing up (it's free).  With FanVault you can be  both a fan and a creator.  Then get yourself a github installation like this and start wrriting and upload the image and sound files you want to use.  Then when ready you can use the templates provded here to compose and create your drop.  
+
+**The goal is to provide many ways to mix the same data and produce a new view.**
 
 ## 🔗 Visit FanVault
 

@@ -10,30 +10,30 @@ A card can carry a story, a song, an image, a memory, or a connection to its cre
 
 This GitHub library is where we experiment with taking those ideas onto the open web.
 
----
-
 ## 🌎 Explore the Library
+
+We are building a world we call Dotland where ever dot is respected. Its part real and part makebelieve and part game.   Take from it what you want and like and leave the rest.  THere is a puzzle to Dotland and the only way to solve it is to explore.
 
 ### 🎨 [Dotland](Dotland/)
 
 *A little dot. A whole world of music.*
 
-Meet Mr. Dot, Pixel, and a growing cast of characters in an imaginary world of music, art, stories, and playful discovery.
-
-Dotland is our creative playground for exploring how cards, characters, stories, and collections can connect.
+Meet Mr. Dot, Pixel, and a growing cast of characters in an imaginary world of music, art, stories, and playful discovery. Dotland is our creative playground for exploring how cards, characters, stories, and collections can connect.  Your welcome to come along and add your stories and ask your friends to come join too.   It's all about Fandom and all that that means but don't ask me or Captain Dot 🎶 as music is our thing and that is what we love!
 
 ### 🃏 Cards and Templates
 
-We are developing reusable Markdown templates for creating, documenting, and publishing FanVault cards and drops.
+We are developing reusable Markdown templates for creating, documenting, and publishing FanVault cards and drops.  
 
-- [Drop Planning Template](Drop-Planning-Template.md) — A starting point for creating cards.
+A starting point for creating cards that walks you through step by step what you need to create your first deck of card is the planning document.  Take a look at it complete it and use it and follow it when you create your first deck and cards
+
+- [Drop Planning Template](Drop-Planning-Template.md)
 - **Showcase Template** — Coming soon!
-
-These templates are designed to be understandable and useful without requiring programming experience.
+- 
+  These templates are designed to be understandable and useful without requiring programming experience.
 
 ### 🖼️ Showcases
 
-A showcase brings a collection of cards together into a richer presentation.
+A showcase brings a collection of cards together into a richer presentation.  Showcase is just the same capability without the game aspects. For example you want to drop and link to 15 second sound bite of something you are working on with poptext maybe about how they can signup for next release you can do it with FanVault showcase.
 
 Our experiments explore how the same content can appear as:
 

@@ -27,8 +27,7 @@ Dotland is our creative playground for exploring how cards, characters, stories,
 We are developing reusable Markdown templates for creating, documenting, and publishing FanVault cards and drops.
 
 - [Drop Planning Template](Drop-Planning-Template.md) — A starting point for creating cards.
-- **Showcase Template** — Coming soon.
-- **Drop Planning Template** — Coming soon.
+- **Showcase Template** — Coming soon!
 
 These templates are designed to be understandable and useful without requiring programming experience.
 
@@ -45,8 +44,6 @@ Our experiments explore how the same content can appear as:
 
 **One collection. Many ways to experience it.**
 
----
-
 ## 🌐 Why GitHub?
 
 Most people think of GitHub as a place for programmers.
@@ -61,7 +58,6 @@ You don't need to be a developer to browse this library.
 
 And that's part of the experiment.
 
----
 
 ## ✨ From Smart Decks to the Open Web
 
@@ -74,8 +70,6 @@ The goal is not to lock creative work inside one application.
 **The goal is to give creators and collectors more ways to keep, share, and experience what they value.**
 
 This repository is an early publishing experiment toward that vision, not a claim that automated Smart Deck publishing is already available.
-
----
 
 ## 🔗 Visit FanVault
 

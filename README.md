@@ -90,5 +90,5 @@ and that is just the first dot.
 
 *Made for curious people, creative communities, and the open web.*
 
-**FanVault.Live — Make Your Drop Real.**# fanvaultlive.github.io
-FanVault Open Web Publishing — Cards, Stories, Smart Decks &amp; Showcases
+**FanVault.Live — Make Your Drop Real.**# [fanvaultlive.github.io] (https://fanvaultlive.github.io/)
+FanVault Open Web Publishing

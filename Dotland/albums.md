@@ -1,14 +1,16 @@
 
 # 💿 Taking the Long Way
-
+an 
 **Artist:** Andy Koh
 **Release:** 10/30/26
 
 Spotify: https://open.spotify.com/artist/2DaZEIpFK3T6bOtsDHYZbm?si=KtEJm0TmT42vrYBmwFbhQQ
 
+Andy used FanVault for his October 30th release of his new album *Taking the Long Way*   Tbis is not his actual card but an example of how an artist might create a card for album release.   You can stick {join Andy's drop at] (https://dropline-five.vercel.app/#/drop/a6efb907-8376-4289-91c3-c00469c54d42)
+
 ### 📖 Liner Notes
 
-Once upon a time, a little dot heard a song...fron Andy that grew into an album.  This is an example of an artist use of drops for release of new album.   The artist could provide as much o ras little information about what they want to say.This is the beginng of a 
+Once upon a time, a little dot heard a song...fron Andy that grew into an album.  This is an example of an artist use of drops for release of new album.   The artist could provide as much o ras little information about what they want to say.
 
 ### 🖼️ Cover Art
 

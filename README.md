@@ -1,5 +1,5 @@
-# [FanVault.Live] (https://fanvault.live)
-FanVault is the evolution of an idea hatched last spring in Philadelphia in my daughter's apartment at Drexel describing a way to help the many artist that are onboarding to Spotify using DistroKids and other tools their new songs and albums and trying to get traction via social media.     It'sa  gestaldt of pokemon and k-pop principles applied to western music and culture as a tool for indie artist to build direct *and sustainable* fan relationships without relying on major platforms.
+# FanVault.Live
+{FanVault} (https://fanvault.live)is the evolution of an idea hatched last spring in Philadelphia in my daughter's apartment at Drexel describing a way to help the many artist that are onboarding to Spotify using DistroKids and other tools their new songs and albums and trying to get traction via social media.     It'sa  gestaldt of pokemon and k-pop principles applied to western music and culture as a tool for indie artist to build direct *and sustainable* fan relationships without relying on major platforms.
 
 ### Cards. Stories. Collections. Creative Worlds.
 

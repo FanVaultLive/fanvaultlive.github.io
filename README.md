@@ -1,20 +1,12 @@
-# FanVault
+# [FanVault.Live] (https://fanvault.live)
+FanVault is the evolution of an idea hatched last spring in Philadelphia in my daughter's apartment at Drexel describing a way to help the many artist that are onboarding to Spotify using DistroKids and other tools their new songs and albums and trying to get traction via social media.     It'sa  gestaldt of pokemon and k-pop principles applied to western music and culture as a tool for indie artist to build direct *and sustainable* fan relationships without relying on major platforms.
 
-FanVault is the evolution of an idea hatched last spring in Philadelphia in my daughter's apartment at Drexel University to help the many artist that where onboarding to spotify using DistroKids and other tools new songs and albums and traying to get traction via social media.    It'sa  gestaldt of pokemon and kpop principles applied to western music and culture as a tool for indie artist to build direct **and sustainable** fan relationships without relying on major platforms that lock artist 
-
-
-
-
-
-
-
-
-pop n
 ### Cards. Stories. Collections. Creative Worlds.
 
 Welcome to the public publishing library for [FanVault.Live](https://fanvault.live).
 
 FanVault is exploring a simple idea: **what does it mean to collect fan cards today?*
+
 A card can carry a story, a song, an image, a memory, or a connection to its creator. A collection can become something worth keeping, exploring, sharing, and building upon.  This GitHub library is where we experiment with taking those ideas onto the open web.  How could an artist today use simple and mostly free sofware tools like wordpress and gitbub to build bridge to fan collection.  Today approach to super fan is purely transational and like all bloated industries capture the low hanging fruit <the rich> while leaving the rest unsatisfied, if not, down right disguntled.   The opportunity to merge k-pop with pokemon as envisioned for the millions of aspiring indie musicians built in metaphor as found in Dotland.
 
 And as I build these tools you participate and use them yourself to build your own Dotland and invite all your dots and get them together and do dotty stuff!  or call them fans,  suit yourself.

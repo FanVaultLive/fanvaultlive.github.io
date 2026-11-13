@@ -1,5 +1,15 @@
-# FanVault.Live — an Open Web Publishing Library
-k-pop n
+# FanVault
+
+FanVault is the evolution of an idea hatched last spring in Philadelphia in my daughter's apartment at Drexel University to help the many artist that where onboarding to spotify using DistroKids and other tools new songs and albums and traying to get traction via social media.    It'sa  gestaldt of pokemon and kpop principles applied to western music and culture as a tool for indie artist to build direct **and sustainable** fan relationships without relying on major platforms that lock artist 
+
+
+
+
+
+
+
+
+pop n
 ### Cards. Stories. Collections. Creative Worlds.
 
 Welcome to the public publishing library for [FanVault.Live](https://fanvault.live).

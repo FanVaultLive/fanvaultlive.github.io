@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>First Automated Dot — Dotland Open Collection</title>
+  </head>
+  <body>
+    <outline text="First Automated Dot" type="link" url="https://mrbrianpuck.wordpress.com/2026/11/17/1316/" collectionId="DOT-001">
+      <outline text="JOIN THIS DROP" type="link" url="https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a" />
+      <outline text="The First Auto Dot" cardId="DOT-CARD-001" tier="White">
+        <outline text="Every collection begins with one little dot. This is an experiment to see if this card can travel across the web" />
+      </outline>
+      <outline text="On the Open Web" cardId="DOT-CARD-002" tier="Blue">
+        <outline text="A card can begin as a story, travel across the web, and become part of a collection. A card can start one place and then add images and sounds and memories." />
+      </outline>
+    </outline>
+  </body>
+</opml>

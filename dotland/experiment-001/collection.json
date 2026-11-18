@@ -1,0 +1,30 @@
+{
+  "format": "Dotland Open Collection",
+  "version": "0.1",
+  "collection_id": "DOT-001",
+  "document_type": "Card",
+  "status": "Experiment",
+  "title": "First Automated Dot",
+  "source_url": "https://mrbrianpuck.wordpress.com/2026/11/17/1316/",
+  "source_verification": "Not independently fetched; data transcribed from creator-supplied template in conversation",
+  "join_url": "https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a",
+  "rss_feed_url": "https://mrbrianpuck.wordpress.com/feed/",
+  "rss_verified": false,
+  "cards": [
+    {
+      "id": "DOT-CARD-001",
+      "title": "The First Auto Dot",
+      "tier": "White",
+      "description": "Every collection begins with one little dot. This is an experiment to see if this card can travel across the web",
+      "image_url": null
+    },
+    {
+      "id": "DOT-CARD-002",
+      "title": "On the Open Web",
+      "tier": "Blue",
+      "description": "A card can begin as a story, travel across the web, and become part of a collection. A card can start one place and then add images and sounds and memories.",
+      "image_url": null,
+      "image_note": "Blue (original template label; published image not verified)"
+    }
+  ]
+}

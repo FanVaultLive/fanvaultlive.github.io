@@ -12,6 +12,9 @@
       <outline text="On the Open Web" cardId="DOT-CARD-002" tier="Blue" imageUrl="https://github.com/user-attachments/assets/d08ccd41-39ee-481e-a89b-74f7fa7b3707">
         <outline text="A card can begin as a story, travel across the web, and become part of a collection. A card can start one place and then add images and sounds and memories." />
       </outline>
+      <outline text="Pixel" cardId="DOT-CARD-003" tier="Red" imageTitle="I know it should be red!" imageUrl="https://github.com/user-attachments/assets/849b0ba2-7ffa-43dc-ad34-5447033df822">
+        <outline text="There is something about a three-card draw. I'm not sure what it is, but Dotland is built on it. This is the third card, published openly through WordPress and then processed using AI and FanVault to produce both a private and public experience." />
+      </outline>
     </outline>
   </body>
 </opml>

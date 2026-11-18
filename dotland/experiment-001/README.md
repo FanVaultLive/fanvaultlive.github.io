@@ -1,31 +1,20 @@
-# Dotland Open Collections — Experiment 001
+# Dotland Open Collection — Experiment 001 (three-card update)
 
-A static, GitHub Pages-ready demonstration of the **First Automated Dot** collection.
-
-## Install
-
-1. Create a public repository, or use a dedicated folder in `FanVaultLive/fanvaultlive.github.io`.
-2. Upload **all files together** into the repository root or a folder such as `dotland/experiment-001/`.
-3. If using the Pages repository, open `https://fanvaultlive.github.io/dotland/experiment-001/` after publishing.
-4. If using a different repository, enable GitHub Pages from the repository Settings and use the URL GitHub provides.
+Ready to upload to the **existing Experiment 001 GitHub Pages directory**. Upload the **contents** of this ZIP together (not the ZIP file itself). Keep `images/` and its PNG in place.
 
 ## Files
+- `index.html`, `style.css`: warm ivory gallery; light cards; expandable artwork using native HTML `<details>` (no JavaScript).
+- `collection.md`, `collection.json`, `collection.opml`: three-card collection, preserving IDs, original order and existing descriptions.
+- `dirtree.json`: experimental, self-declared DirTree branch manifest.
+- `images/pixel-dotland-color-drop.png`: supplied Card 003 image stored locally for reliable display.
 
-- `index.html` — responsive card gallery with live JOIN action
-- `style.css` — styling
-- `collection.md` — readable Markdown representation
-- `collection.json` — structured card records
-- `collection.opml` — navigable outline
-- `README.md` — installation and provenance notes
+## Publication
+1. Open the existing GitHub repository and the directory currently serving Experiment 001.
+2. Upload these files, replacing the six prior files and adding `dirtree.json` and `images/pixel-dotland-color-drop.png`.
+3. Confirm `index.html` shows all three cards; expand the Card 002 and Card 003 images; check JSON/OPML/manifest links.
+4. Verify the live FanVault destination separately; this static page does not create cards or write to Supabase.
 
-## Provenance and limits
+## Source and verification
+Card 001/002 data copied from the original ZIP. Card 003 data and image were supplied by the creator in conversation on November 18, 2026. Original WordPress source and Card 002 remote image availability have not been independently checked. Card 003's actual presence in the FanVault deck has not been independently checked. `dirtr.ee` is linked as a future informational destination; its splash page may not yet exist.
 
-**Published WordPress URL:** https://mrbrianpuck.wordpress.com/2026/11/17/1316/
-
-**FanVault JOIN URL:** https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a
-
-The WordPress page and feed could not be retrieved in this environment at packaging time. Card text and IDs are derived from the template supplied by the creator in the conversation, **not** from verified HTML/RSS. Card 002 references the Mr. Dot GitHub attachment URL supplied by the creator; its availability has not been independently verified. Card 001 remains a placeholder. The RSS link points to the expected WordPress feed, but its contents have **not** been validated.
-
-To complete the actual round-trip test, compare these files against the published WordPress post and RSS, and replace placeholders only with verified source URLs.
-
-This static site does not write to FanVault, Supabase, or WordPress.
+This is a static publication, not a verified identity system or an automatic federation mechanism.

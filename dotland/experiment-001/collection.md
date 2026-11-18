@@ -32,4 +32,15 @@ Every collection begins with one little dot. This is an experiment to see if thi
 
 A card can begin as a story, travel across the web, and become part of a collection. A card can start one place and then add images and sounds and memories.
 
+## CARD 003
+
+**Card ID:** DOT-CARD-003  
+**Title:** Pixel  
+**Tier:** Red  
+**Image Title:** I know it should be red!  
+**Image:** [DotLand Color Drop Celebration](https://github.com/user-attachments/assets/849b0ba2-7ffa-43dc-ad34-5447033df822)  
+**Display size:** 400 × 400
+
+There is something about a three-card draw. I'm not sure what it is, but Dotland is built on it. This is the third card, published openly through WordPress and then processed using AI and FanVault to produce both a private and public experience.
+
 ## END OF COLLECTION

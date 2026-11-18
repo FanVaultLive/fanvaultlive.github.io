@@ -1,0 +1,29 @@
+{
+  "format": "DirTree experimental manifest",
+  "version": "0.1-draft",
+  "branch_id": "DOT-001",
+  "branch_name": "Dotland / First Automated Dot",
+  "publisher": "Dotland (self-declared; not independently verified)",
+  "collection": "collection.json",
+  "outline": "collection.opml",
+  "source": "collection.md",
+  "destination": "https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a",
+  "entries": [
+    {
+      "id": "DOT-CARD-001",
+      "title": "The First Auto Dot",
+      "tier": "White"
+    },
+    {
+      "id": "DOT-CARD-002",
+      "title": "On the Open Web",
+      "tier": "Blue"
+    },
+    {
+      "id": "DOT-CARD-003",
+      "title": "Pixel",
+      "tier": "Red"
+    }
+  ],
+  "note": "Experimental, self-declared directory metadata. No identity verification, automatic federation, or synchronization."
+}

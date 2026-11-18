@@ -25,6 +25,19 @@
       "description": "A card can begin as a story, travel across the web, and become part of a collection. A card can start one place and then add images and sounds and memories.",
       "image_url": "https://github.com/user-attachments/assets/d08ccd41-39ee-481e-a89b-74f7fa7b3707",
       "image_attribution": "Mr. Dot — image URL supplied by creator; accessibility not independently verified"
+    },
+    {
+      "id": "DOT-CARD-003",
+      "title": "Pixel",
+      "tier": "Red",
+      "image_title": "I know it should be red!",
+      "image_alt": "DotLand Color Drop Celebration",
+      "image_url": "https://github.com/user-attachments/assets/849b0ba2-7ffa-43dc-ad34-5447033df822",
+      "local_image": "images/pixel-dotland-color-drop.png",
+      "image_display_width": 400,
+      "image_display_height": 400,
+      "description": "There is something about a three-card draw. I'm not sure what it is, but Dotland is built on it. This is the third card, published openly through WordPress and then processed using AI and FanVault to produce both a private and public experience."
     }
-  ]
+  ],
+  "source_notes": "Cards 001 and 002 retained from original Experiment 001 ZIP; Card 003 supplied by creator in conversation on 2026-11-18. Card 003 image supplied as an upload. No independent verification of live FanVault card assignment."
 }

@@ -36,6 +36,9 @@ Every collection begins with one little dot.  This is an experiment to see if th
 **Tier:** Blue
 **Image:** Blue 
 
+<img width="400" height="532" alt="Captain Dot_ Nautical Robot Hero" src="https://github.com/user-attachments/assets/d08ccd41-39ee-481e-a89b-74f7fa7b3707" />
+
+
 **Description:**
 
 A card can begin as a story, travel across the web, and become part of a collection.  A card can start one place and then add images and sounds and memories.

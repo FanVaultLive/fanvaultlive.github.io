@@ -24,9 +24,8 @@ A static, GitHub Pages-ready demonstration of the **First Automated Dot** collec
 
 **FanVault JOIN URL:** https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a
 
-The WordPress page and feed could not be retrieved in this environment at packaging time. Card text and IDs are derived from the template supplied by the creator in the conversation, **not** from verified HTML/RSS. Images are intentionally placeholders, and no WordLand-hosted image URLs have been invented. The RSS link points to the expected WordPress feed, but its contents have **not** been validated.
+The WordPress page and feed could not be retrieved in this environment at packaging time. Card text and IDs are derived from the template supplied by the creator in the conversation, **not** from verified HTML/RSS. Card 002 references the Mr. Dot GitHub attachment URL supplied by the creator; its availability has not been independently verified. Card 001 remains a placeholder. The RSS link points to the expected WordPress feed, but its contents have **not** been validated.
 
 To complete the actual round-trip test, compare these files against the published WordPress post and RSS, and replace placeholders only with verified source URLs.
 
 This static site does not write to FanVault, Supabase, or WordPress.
-

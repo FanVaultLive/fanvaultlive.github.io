@@ -28,7 +28,7 @@ Every collection begins with one little dot. This is an experiment to see if thi
 **Card ID:** DOT-CARD-002  
 **Title:** On the Open Web  
 **Tier:** Blue  
-**Image:** Blue (image URL not verified)
+**Image:** [Mr. Dot — Blue Card](https://github.com/user-attachments/assets/d08ccd41-39ee-481e-a89b-74f7fa7b3707)
 
 A card can begin as a story, travel across the web, and become part of a collection. A card can start one place and then add images and sounds and memories.
 

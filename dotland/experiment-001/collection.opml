@@ -9,7 +9,7 @@
       <outline text="The First Auto Dot" cardId="DOT-CARD-001" tier="White">
         <outline text="Every collection begins with one little dot. This is an experiment to see if this card can travel across the web" />
       </outline>
-      <outline text="On the Open Web" cardId="DOT-CARD-002" tier="Blue">
+      <outline text="On the Open Web" cardId="DOT-CARD-002" tier="Blue" imageUrl="https://github.com/user-attachments/assets/d08ccd41-39ee-481e-a89b-74f7fa7b3707">
         <outline text="A card can begin as a story, travel across the web, and become part of a collection. A card can start one place and then add images and sounds and memories." />
       </outline>
     </outline>

@@ -9,7 +9,9 @@
 
 This document describes a portable card deck.  This is an experiment to see if existing tools such as github, wordland, or wp.com and AI can be used to output to various formats left to be determined by the user.   A card can live as a collectible in FanVault.live that you can join and can travel across the web being accessible in many formats.
 
-You can join this experiment here
+You can join this experiment here 
+
+# [First Automated Dot 🔴] (https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a)
 
 Each card has an ID, title, description, and rarity tier.
 
@@ -32,9 +34,10 @@ Every collection begins with one little dot.  This is an experiment to see if th
 **Card ID:** DOT-CARD-002
 **Title:  On the Open Web**
 **Tier:** Blue
+**Image:** Blue 
 
 **Description:**
 
-A card can begin as a story, travel across the web, and become part of a collection.
+A card can begin as a story, travel across the web, and become part of a collection.  A card can start one place and then add images and sounds and memories.
 
 ## END OF COLLECTION

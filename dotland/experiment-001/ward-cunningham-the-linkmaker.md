@@ -3,7 +3,6 @@
 **Card ID:** DOT-CARD-004  
 **Subject:** Ward Cunningham  
 **Title:** The Linkmaker  
-**Suggested tier:** Gold (proposal — not yet assigned in FanVault)  
 **Collection:** First Automated Dot — Dotland Experiment 001  
 **Status:** Independent tribute / card concept
 
@@ -46,6 +45,6 @@ The first three dots found one another. The fourth reminds them to leave the doo
 
 ---
 
-*This is an independent Dotland tribute, not a collaboration with or endorsement by Ward Cunningham. No voice recording, appearance, or participation by Ward has been arranged. The Gold tier is only a proposal until the card is created and assigned in FanVault.*
+*This is an independent Dotland tribute, not a collaboration with or endorsement by Ward Cunningham.
 
 **Grow Your Own Web.** 🌱

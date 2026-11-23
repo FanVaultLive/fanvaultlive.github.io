@@ -6,7 +6,20 @@
     <description>Little Dotland experiments in Markdown, collectible cards, open-web discovery, and JOIN DROP cabooses.</description>
     <language>en-us</language>
     <atom:link href="https://fanvaultlive.github.io/dotland/experiment-001/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Nov 2026 04:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:56:26 GMT</lastBuildDate>
+    <item>
+      <title>🐶🌈 Bowwow to BonBon! — Dotland Open Web Test Report</title>
+      <link>https://mrbrianpuck.wordpress.com/2026/11/23/bowwow-to-bonbon/</link>
+      <guid isPermaLink="false">dotland-bowwow-to-bonbon-wordpress-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 05:56:26 GMT</pubDate>
+      <category>Open Web</category>
+      <category>Experiment Report</category>
+      <description><![CDATA[
+        <p>🐶🌈 Bowwow to BonBon! A factual account of the first Dotland transport test, with links to the original public Markdown collection, JSON, OPML, RSS, FeedLand, BonBon, and the live FanVault JOIN DROP.</p>
+        <p><a href="https://mrbrianpuck.wordpress.com/2026/11/23/bowwow-to-bonbon/">Read the WordPress article</a>.</p>
+        <p><a href="https://fanvaultlive.github.io/bowwow-to-bonbon.md">Read the Markdown copy on GitHub Pages</a>.</p>
+      ]]></description>
+    </item>
     <item>
       <title>🌈🐟 First Automated Dot — Three Cards on the Open Web</title>
       <link>https://fanvaultlive.github.io/dotland/experiment-001/</link>

@@ -6,7 +6,19 @@
     <description>Little Dotland experiments in Markdown, collectible cards, open-web discovery, and JOIN DROP cabooses.</description>
     <language>en-us</language>
     <atom:link href="https://fanvaultlive.github.io/dotland/experiment-001/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Nov 2026 05:56:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:14:37 GMT</lastBuildDate>
+  <!-- MD-PUB-003:LAB-BEGIN -->
+    <item>
+      <title>one little dot</title>
+      <link>https://demo.bonbonweb.org/?url=https%3A%2F%2Fmarkdown-publish-lab-preview-bjfylktp3-brianpucketts-projects.vercel.app%2Fm%2F0Y8zSLl7PO0iNR69Q952l3.md</link>
+      <guid isPermaLink="false">urn:mdlab:0Y8zSLl7PO0iNR69Q952l3</guid>
+      <pubDate>Mon, 23 Nov 2026 21:14:37 GMT</pubDate>
+      <category>Markdown Lab</category>
+      <description>Yes can you lease publish to RSS
+
+Original Markdown: https://markdown-publish-lab-preview-bjfylktp3-brianpucketts-projects.vercel.app/m/0Y8zSLl7PO0iNR69Q952l3.md</description>
+    </item>
+  <!-- MD-PUB-003:LAB-END -->
     <item>
       <title>🐶🌈 Bowwow to BonBon! — Dotland Open Web Test Report</title>
       <link>https://mrbrianpuck.wordpress.com/2026/11/23/bowwow-to-bonbon/</link>

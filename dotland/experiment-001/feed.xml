@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dotland Open Web Express 🚂🌈</title>
+    <link>https://fanvaultlive.github.io/dotland/experiment-001/</link>
+    <description>Little Dotland experiments in Markdown, collectible cards, open-web discovery, and JOIN DROP cabooses.</description>
+    <language>en-us</language>
+    <atom:link href="https://fanvaultlive.github.io/dotland/experiment-001/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Nov 2026 04:14:29 GMT</lastBuildDate>
+    <item>
+      <title>🌈🐟 First Automated Dot — Three Cards on the Open Web</title>
+      <link>https://fanvaultlive.github.io/dotland/experiment-001/</link>
+      <guid isPermaLink="false">dotland-transport-001-first-automated-dot-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 04:14:29 GMT</pubDate>
+      <category>Open Web</category>
+      <category>Collectible Cards</category>
+      <description><![CDATA[
+        <p>🚂 ALL ABOARD! Our first Dotland experiment features three cards: The First Auto Dot (White), On the Open Web (Blue), and Pixel (Red).</p>
+        <p>Little Pixel is exploring a colorful open web. 🌈 ❤️ 💚 💙 And yes, a little fish is along for the ride! 🐟</p>
+        <p><a href="https://fanvaultlive.github.io/dotland/experiment-001/collection.md">Read the public Markdown collection</a> or <a href="https://fanvaultlive.github.io/dotland/experiment-001/">visit the three-card gallery</a>.</p>
+        <p>🎟️ CABOOSE: <a href="https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a">JOIN FIRST AUTOMATED DOT ON FANVAULT.LIVE</a>.</p>
+        <p>This is an open-web interoperability experiment. The RSS announcement links to the original publication and the live FanVault destination.</p>
+      ]]></description>
+    </item>
+  </channel>
+</rss>

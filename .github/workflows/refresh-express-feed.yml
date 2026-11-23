@@ -1,0 +1,41 @@
+name: Refresh Dotland Open Web Express
+
+on:
+  # Changes are approved in Markdown Lab first. The public Express collects
+  # those announcements once an hour; operator can run manually to test.
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dotland-express-feed
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout public Pages repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: true
+      - name: Run safe offline merger tests
+        run: python3 -m unittest discover -s tests -p 'test_refresh_express_feed.py' -v
+      - name: Merge approved Markdown Lab RSS
+        run: python3 tools/refresh_express_feed.py
+      - name: Commit only if approved items changed
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- dotland/experiment-001/feed.xml; then
+            echo 'No feed changes.'
+            exit 0
+          fi
+          git config user.name 'dotland-express-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- dotland/experiment-001/feed.xml
+          git commit -m 'Dotland Express: refresh approved Markdown Lab RSS'
+          git push origin HEAD:main

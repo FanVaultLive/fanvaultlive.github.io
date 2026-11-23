@@ -6,8 +6,18 @@
     <description>Little Dotland experiments in Markdown, collectible cards, open-web discovery, and JOIN DROP cabooses.</description>
     <language>en-us</language>
     <atom:link href="https://fanvaultlive.github.io/dotland/experiment-001/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 23 Nov 2026 21:14:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:31:38 GMT</lastBuildDate>
   <!-- MD-PUB-003:LAB-BEGIN -->
+    <item>
+      <title>Ward Cunningham — The Linkmaker</title>
+      <link>https://demo.bonbonweb.org/?url=https%3A%2F%2Fmarkdown-publish-lab-preview-bjfylktp3-brianpucketts-projects.vercel.app%2Fm%2F32GX8Xb1WjWFNfzFPWtl2Z.md</link>
+      <guid isPermaLink="false">urn:mdlab:32GX8Xb1WjWFNfzFPWtl2Z</guid>
+      <pubDate>Mon, 23 Nov 2026 23:30:29 GMT</pubDate>
+      <category>Markdown Lab</category>
+      <description>Could you please include this in the rss feed.
+
+Original Markdown: https://markdown-publish-lab-preview-bjfylktp3-brianpucketts-projects.vercel.app/m/32GX8Xb1WjWFNfzFPWtl2Z.md</description>
+    </item>
     <item>
       <title>one little dot</title>
       <link>https://demo.bonbonweb.org/?url=https%3A%2F%2Fmarkdown-publish-lab-preview-bjfylktp3-brianpucketts-projects.vercel.app%2Fm%2F0Y8zSLl7PO0iNR69Q952l3.md</link>

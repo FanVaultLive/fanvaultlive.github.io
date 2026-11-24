@@ -92,3 +92,102 @@ and that is just the first dot.
 
 **FanVault.Live — Make Your Drop Real.**# [fanvaultlive.github.io] (https://fanvaultlive.github.io/)
 FanVault Open Web Publishing
+
+
+---
+
+## Architecture note — BonBon, RSS.chat, FeedLand, and DirTree (November 24, 2026)
+
+**Status:** Architectural direction and experiment record, not an implementation
+authorization or a claim that DirTree imports remote sources today.
+
+### Historical perspective: why BonBon matters
+
+In **“BonBon: A Historical Perspective”**, a text Dave Winer shared on
+November 24, 2026, BonBon is described as an exploration of a different
+branch of the original Web: ordinary linked documents still use HTTP, URLs,
+and hyperlinks, but Markdown becomes a simple common document format.
+Markdown did not exist when Tim Berners-Lee proposed the Web in 1989.
+The idea is **not** to replace HTML or create a new Internet.
+
+- A short note, a long article, an artist's story, and a card description
+  need not be different publishing *species*. Each can begin with an
+  independent document and URL.
+- An author supplies content; reader software may determine presentation.
+  BonBon is a reader, not the owner of a Markdown document.
+- Editors, publishers, feed readers, social discussion systems, and
+  directories can remain independent and interoperable.
+- A public original remains the canonical source; applications point to it
+  instead of requiring everyone to move into one platform.
+
+This section summarizes the shared historical framing; it is not a
+reproduction of Dave's full essay.
+
+### Parallel tracks, not a mandatory single platform
+
+**Track A — Dotland Express:** The existing curated RSS publication on
+GitHub Pages announces approved Markdown Lab documents and independently
+authored items. Its RSS subscribers follow the publication.
+
+**Track B — RSS.chat / WordLand:** A creator writes and publishes a post,
+and readers can follow the creator's own RSS feed. An experimental example
+is Brian's RSS.chat demo feed:
+https://demo.rss.chat/users/Brian/rss.xml
+This demo is a testing home, **not guaranteed permanent storage**.
+
+**Track C — FeedLand:** A curator follows and organizes other people's
+feeds, and may also publish their own posts or linkblog into a personal
+RSS feed. A **FeedLand subscription list or category** can be expressed
+as **OPML**. The distinction matters:
+
+- **RSS feed:** A stream of *items or posts* that readers subscribe to.
+- **OPML outline:** A *list of feeds or sources* assembled by a curator.
+- **Markdown URL:** The original document itself, which a compatible
+  reader such as BonBon may display.
+- **Directory entry:** A pointer with attribution and metadata, not
+  necessarily a copy of the original content.
+
+Sources: [FeedLand feed-list documentation](https://docs.feedland.com/yourfeedlist.md),
+[FeedLand's own RSS feed](https://docs.feedland.com/yourfeed.md),
+and [category OPML exports](https://docs.feedland.com/categories.md).
+
+### DirTree proposal: accept both a creator feed and a curator's list
+
+A person should be able to submit two independent public URLs to DirTree:
+
+1. **“Follow Brian”** — the RSS URL for posts Brian published through
+   RSS.chat or any compatible publisher.
+2. **“Follow Brian's Picks”** — an OPML URL for Brian's curated FeedLand
+   subscriptions, or a FeedLand RSS URL if the intent is to share his
+   *own curated posts/linkblog items*.
+
+DirTree should distinguish **author identity, publishing stream, and
+curation**. One person may have multiple feeds and multiple curated
+outlines; a curated outline is not the same as the posts it points to.
+The directory could offer links to the sources and, later, discover
+items without demanding a new upload or a DirTree account.
+
+A minimal future ingestion contract would record the submitted URL,
+source type (RSS, OPML, Markdown, or other supported web document),
+declared title and attribution, original/canonical URL, retrieval and
+last-reviewed times, and verification status. The origin stays
+authoritative. Curator review should be used before listing untrusted
+new sources. Do not silently republish full content or claim verified
+authorship from a self-reported feed title.
+
+### Implementation boundary — KISS
+
+- **Already demonstrated:** public Markdown URLs; RSS announcements;
+  Dotland Express curation; RSS.chat posts with personal RSS; FeedLand
+  RSS subscriptions and OPML lists.
+- **Not yet built:** DirTree submission and remote ingestion of arbitrary
+  RSS/OPML URLs, automatic federation, or synchronization between
+  RSS.chat and Dotland Express.
+- **Not the goal:** create another social network, editor, feed reader,
+  content silo, or route into FanVault's production Game/COMS database.
+- **Future gate:** read-only discovery first; exact URL preservation,
+  attribution, anti-spam review, safe parsing, and explicit permission
+  before any production integration.
+
+**Principle:** *One original document; many ways to publish, follow,
+discuss, curate, and discover it.* Small pieces, loosely joined.

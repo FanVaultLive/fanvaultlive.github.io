@@ -103,7 +103,7 @@ authorization or a claim that DirTree imports remote sources today.
 
 ### Historical perspective: why BonBon matters
 
-In **“BonBon: A Historical Perspective”**, a text Dave Winer shared on
+In **“BonBon: A Historical Perspective”**, an essay attributed to Dave Winer and supplied for these notes on
 November 24, 2026, BonBon is described as an exploration of a different
 branch of the original Web: ordinary linked documents still use HTTP, URLs,
 and hyperlinks, but Markdown becomes a simple common document format.
